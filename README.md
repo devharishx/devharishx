@@ -1,12 +1,33 @@
 <!-- Header GIF (optional) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Harish+K!;React+%2B+Firebase+Dev;AI+Automation+Tool+Builder;Learning+%F0%9F%92%AA+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<div align="center">
+
+  <h1>👋 Welcome to My GitHub!</h1>
+  <h3>Hi, I'm <strong>HARISH</strong></h3>
+  <p>⚡ Let's build, break, and grow together in tech! ⚙️</p>
+
+</div>
+
 
 ---
 
-## 👨‍💻 About Me
-```js
-const Harish = {
-  code: ["JavaScript", "React", "Firebase", "n8n", "Tailwind CSS"],
-  hobbies: ["Building Tools", "Learning", "Making YouTube Videos"],
-  challenge: "Mastering AI Automation + UI Development in 2025",
-}
+## 👨🏻‍💻 A Little Bit About Me and My Interests
+
+```yaml
+name: Harish
+located_in: Chennai , India
+current_job: Front-End Developer
+education:
+  - Self-Taught Developer and Designer
+  - Bachelor's in Computer Application (BCA)
+
+fields_of_interests:
+  - Web Development
+  - UI/UX
+  - Game Development
+
+currently_learning:
+  - React Js
+  - TailwindCss
+  - Next js
+
+
