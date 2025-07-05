@@ -1,4 +1,4 @@
-<!-- Header GIF (optional) -->
+<!-- Header Welcome Section -->
 <div align="center">
 
   <h1>👋 Welcome to My GitHub!</h1>
@@ -7,27 +7,40 @@
 
 </div>
 
+---
+
+<details>
+  <summary>👨🏻‍💻 A Little Bit About Me and My Interests</summary>
+
+  <br/>
+
+  ```yaml
+  name: Harish
+  located_in: Chennai, India
+  current_job: Front-End Developer
+  education:
+    - Self-Taught Developer and Designer
+    - Bachelor's in Computer Application (BCA)
+
+  fields_of_interests:
+    - Web Development
+    - UI/UX
+    - Game Development
+
+  currently_learning:
+    - React JS
+    - Tailwind CSS
+    - Next.js
+  ```
+
+</details>
 
 ---
 
-## 👨🏻‍💻 A Little Bit About Me and My Interests
+## 🚀 Some Tools I Have Used and Learned
 
-```yaml
-name: Harish
-located_in: Chennai , India
-current_job: Front-End Developer
-education:
-  - Self-Taught Developer and Designer
-  - Bachelor's in Computer Application (BCA)
-
-fields_of_interests:
-  - Web Development
-  - UI/UX
-  - Game Development
-
-currently_learning:
-  - React Js
-  - TailwindCss
-  - Next js
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,python,firebase,mongodb,mysql,git,github,linux,vscode,docker,kubernetes,figma,postman,n8n" />
+</div>
 
 
