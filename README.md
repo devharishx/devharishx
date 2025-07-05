@@ -1,3 +1,8 @@
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontAlign=50&fontSize=40&fontColor=ffffff" />
+</p>
+
 <!-- Header Welcome Section -->
 <div align="center">
 
@@ -9,7 +14,7 @@
 
 ---
 
-<details>
+
   <summary>👨🏻‍💻 A Little Bit About Me and My Interests</summary>
 
   <br/>
@@ -33,7 +38,6 @@
     - Next.js
   ```
 
-</details>
 
 ---
 
