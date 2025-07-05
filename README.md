@@ -39,7 +39,7 @@
 ## 🚀 Some Tools I Have Used and Learned
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html, css, js, react, tailwind, python, git, github,linux, vscode, figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,git,github,linux,vscode,figma" />
 </div>
 
 
