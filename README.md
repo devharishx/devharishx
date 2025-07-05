@@ -1,16 +1,3 @@
-<!-- Animated Hand + Welcome Message -->
-<p align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.gif" width="50" alt="waving hand gif" />
-</p>
-
-<div align="center">
-
-  <h1>Hi, I'm <strong>HARISH</strong> <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.gif" width="30" alt="waving hand" /></h1>
-  <p>⚡ Front-End Developer | React • Tailwind • Next.js ⚙️</p>
-
-</div>
-
-
 <!-- Header Welcome Section -->
 <div align="center">
 
@@ -52,7 +39,7 @@
 ## 🚀 Some Tools I Have Used and Learned
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,git,github,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html, css, js, react, tailwind, python, git, github,linux, vscode, figma" />
 </div>
 
 
