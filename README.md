@@ -1,7 +1,15 @@
-<!-- Animated Header -->
+<!-- Animated Hand + Welcome Message -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="developer animation" />
+  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.gif" width="50" alt="waving hand gif" />
 </p>
+
+<div align="center">
+
+  <h1>Hi, I'm <strong>HARISH</strong> <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.gif" width="30" alt="waving hand" /></h1>
+  <p>⚡ Front-End Developer | React • Tailwind • Next.js ⚙️</p>
+
+</div>
+
 
 <!-- Header Welcome Section -->
 <div align="center">
