@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontAlign=50&fontSize=40&fontColor=ffffff" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="developer animation" />
 </p>
 
 <!-- Header Welcome Section -->
@@ -44,7 +44,7 @@
 ## 🚀 Some Tools I Have Used and Learned
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,python,firebase,mongodb,mysql,git,github,linux,vscode,docker,kubernetes,figma,postman,n8n" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,git,github,linux,vscode,figma" />
 </div>
 
 
